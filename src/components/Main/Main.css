@@ -1,0 +1,28 @@
+.modify {
+  margin-top: 80px;
+}
+.modify h2 {
+  font-weight: 400;
+}
+.modify h1,
+h2 {
+  font-size: 55px;
+}
+.modify p {
+  font-size: 20px;
+}
+.modify h1 {
+  color: #a435f0;
+  font-weight: 600;
+}
+
+/* service css */
+.title {
+  color: #a435f0;
+}
+
+Button {
+  background-color: #a435f0 !important;
+  color: white !important;
+  border: none !important;
+}

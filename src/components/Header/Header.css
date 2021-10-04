@@ -1,0 +1,16 @@
+.menu-title {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.menu-title:hover {
+  color: white;
+}
+
+.menu-style {
+  color: #9b9d9e;
+  text-decoration: none;
+}
+.menu-style:hover {
+  color: #a435f0;
+}
