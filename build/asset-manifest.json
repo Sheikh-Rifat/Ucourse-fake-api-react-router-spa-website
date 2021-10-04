@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5341038a.chunk.css",
+    "main.js": "/static/js/main.4f0cadd8.chunk.js",
+    "main.js.map": "/static/js/main.4f0cadd8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4bd25814.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4bd25814.js.map",
+    "static/css/2.c1256375.chunk.css": "/static/css/2.c1256375.chunk.css",
+    "static/js/2.fa94f705.chunk.js": "/static/js/2.fa94f705.chunk.js",
+    "static/js/2.fa94f705.chunk.js.map": "/static/js/2.fa94f705.chunk.js.map",
+    "static/js/3.3ce14d8f.chunk.js": "/static/js/3.3ce14d8f.chunk.js",
+    "static/js/3.3ce14d8f.chunk.js.map": "/static/js/3.3ce14d8f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.5341038a.chunk.css.map": "/static/css/main.5341038a.chunk.css.map",
+    "static/js/2.fa94f705.chunk.js.LICENSE.txt": "/static/js/2.fa94f705.chunk.js.LICENSE.txt",
+    "static/media/undraw_About_me_re_82bv.851b34c0.png": "/static/media/undraw_About_me_re_82bv.851b34c0.png",
+    "static/media/undraw_Newsletter_re_wrob.18ca98b7.png": "/static/media/undraw_Newsletter_re_wrob.18ca98b7.png",
+    "static/media/undraw_Online_learning_re_qw08.0edcbc2e.png": "/static/media/undraw_Online_learning_re_qw08.0edcbc2e.png",
+    "static/media/undraw_contact_us_15o2.0d9437d1.png": "/static/media/undraw_contact_us_15o2.0d9437d1.png",
+    "static/media/undraw_page_not_found_su7k.bd346e66.png": "/static/media/undraw_page_not_found_su7k.bd346e66.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd25814.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.fa94f705.chunk.js",
+    "static/css/main.5341038a.chunk.css",
+    "static/js/main.4f0cadd8.chunk.js"
+  ]
+}
